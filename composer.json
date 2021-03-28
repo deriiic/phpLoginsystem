@@ -1,0 +1,17 @@
+{
+    "name": "amar/loginsystem",
+    "authors": [
+        {
+            "name": "Deric",
+            "email": "amar.deric@webbi.se"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "."
+        }
+    },
+    "require": {
+    },
+    "description": ""
+}
